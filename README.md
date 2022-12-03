@@ -10,7 +10,7 @@ Welcome to my github page.
 ## 🛠 Skills
 - Javascript, HTML, CSS, C# and Arduino (C++)
 
-- I mostly make full custom Discord bot
+I mostly make full custom Discord bot
 If you are interested in a custom Discord bot
 
 Here is how to reach me: [BonoJansen_#3176](https://discord.com/users/624934684597551116) • [bonodev.eu](https://www.bonodev.eu)
