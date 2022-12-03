@@ -16,7 +16,7 @@ If you are interested in a custom Discord bot
 
 Here is how to reach me: [BonoJansen_#3176](https://discord.com/users/624934684597551116) • [bonodev.eu](https://www.bonodev.eu)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonoJansen)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonoJansen&theme=dark)
 ## 🔗 My links
 
 - Support my work  through [Buy Me A Coffee](https://www.buymeacoffee.com/bonojansen)
