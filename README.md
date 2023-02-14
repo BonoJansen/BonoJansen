@@ -25,5 +25,4 @@ Here is how to reach me: [BonoJansen_#3176](https://discord.com/users/6249346845
 ## 🚧 My projects
 [![urlbiter](https://img.shields.io/badge/Url_Biter-6D39D5?style=for-the-badge)](https://www.urlbiter.com)
 [![bonodev.eu](https://img.shields.io/badge/bonodev.eu-3d418b?style=for-the-badge)](https://www.bonodev.eu/)
-[![realitynode](https://img.shields.io/badge/realitynode-1DA1F2?style=for-the-badge)](https://www.realitynode.nl)
 
